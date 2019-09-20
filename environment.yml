@@ -1,0 +1,10 @@
+name: voila-litho-viewer
+channels:
+  - conda-forge
+dependencies:
+  - bqplot=0.11.5
+  - ipyleaflet=0.11.1
+  - ipywidgets=7.5
+  - jupyterlab=1.0
+  - voila=0.1.9
+
