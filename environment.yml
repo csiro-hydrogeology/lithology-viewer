@@ -2,9 +2,12 @@ name: voila-litho-viewer
 channels:
   - conda-forge
 dependencies:
-  - bqplot=0.11.5
+  - python>=3.7
+  - pandas=0.24.2 
+  - jupyter=1.0.0  
+  - ipykernel=5.1.1
+  - jupyter_client=5.3.1
   - ipyleaflet=0.11.1
   - ipywidgets=7.5
-  - jupyterlab=1.0
+  - ipysheet=0.4.3
   - voila=0.1.9
-
