@@ -1,10 +1,10 @@
 # lithology-viewer
 
-<!-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jtpio/voila-gpx-viewer/master?urlpath=voila%2Frender%2Fapp.ipynb) -->
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/csiro-hydrogeology/lithology-viewer/master?urlpath=voila%252Frender%252Fapp.ipynb)
 
-Experimental web app for exploring borehole log data. Built with Jupyter, ipywidgets, ipyleaflet, bqplot and voila
+Experimental web app for exploring borehole log data. Built with Jupyter, ipyleaflet, ipysheet and voila
 
-<!-- Placeholder for a screencast -->
+![Borehole descriptive lithology](./img/canberra_litho.png)
 
 ## Usage
 
