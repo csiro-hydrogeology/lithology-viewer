@@ -1,10 +1,11 @@
-# lithology-viewer
+## Borehole lithology logs viewer
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/csiro-hydrogeology/lithology-viewer/master?urlpath=voila%252Frender%252Fapp.ipynb)
 
-Experimental web app for exploring borehole log data. Built with Jupyter, ipyleaflet, ipysheet and voila
+Prototype explorer of borehole data used for [exploratory lithology analysis](https://github.com/csiro-hydrogeology/pyela). Powered by [Voila](https://github.com/QuantStack/voila), [ipysheet](https://github.com/QuantStack/ipysheet) and [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet)
 
 ![Borehole descriptive lithology](./img/canberra_litho.png)
+
 
 ## Usage
 
